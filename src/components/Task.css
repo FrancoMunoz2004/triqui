@@ -1,0 +1,21 @@
+.cajita{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}
+.pendiente{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+h3{
+    font-size:15px; 
+    text-align: center;
+}
+.boton{
+    width: 50%;
+    display:flex;
+    justify-content: flex-end;
+}

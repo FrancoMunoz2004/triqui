@@ -1,0 +1,29 @@
+
+h1 {
+  margin-bottom: 10px;
+
+  text-align: center;
+}
+
+svg {
+  width: 20px;
+  height: 20px;
+
+  margin: auto;
+}
+.agg {
+  width: 100%;
+  gap: 10px;
+}
+.textarea {
+  margin-top: 10px;
+}
+
+span {
+  font-size: 12px;
+  font-style: italic;
+  color: rgb(255, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
